@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamKjell
 - 🌱 I’m currently learning Mathematics and Computer Science at the University of North Dakota
-- 📫 How to reach me ...
+- 📫 How to reach me:
 - Email: samkjell@yahoo.com
 
 <!---
